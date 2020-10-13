@@ -15,7 +15,8 @@ Hanya saja server ini di dedikasikan secara Tidak Publik dan hanya untuk player 
 ## Installation / Instalasi
 
 Pertama silahkan download File yang digunakan untik merubah server Default pada Among Us
-Disini -> [FDTech - Among Us](https://fdtech.xyz/among-us-indonesia/).
+Dibawah
+[FDTech - Among Us](https://fdcorp.xyz/among-us-indonesia/).
 
 Lalu setelah di Download, pindahkan file reginInfo.dat tadi ke
 ```
